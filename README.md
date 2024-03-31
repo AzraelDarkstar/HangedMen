@@ -31,3 +31,6 @@ python hangman.py
 - Python 3
 - Colorama
 - Art
+
+## Примечание
+- Все переменные хранятся в файле var.py
